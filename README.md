@@ -14,17 +14,38 @@ A repository of AGI related websites and code.
 
 # AwesomeAGI
 
-## Repo
+## AwesomeAGI Algorithm
+### Repo
 * [[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)]
 * [[Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC)]
 * [[ChatPaper](https://github.com/kaixindelele/ChatPaper)]
 * [[awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)]
+* [[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)]
+* [[aigc](https://github.com/phodal/aigc)]
+* [[stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial)]
+* [[understand-prompt](https://github.com/phodal/understand-prompt)]
+* [[ControlNet](https://github.com/lllyasviel/ControlNet)]
 
-# Website
+## AwesomeAGI Agent
+* [[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)]
+* [[big-AGI](https://github.com/enricoros/big-AGI)]
+* [[AGiXT](https://github.com/Josh-XT/AGiXT)]
+* [[mini-agi](https://github.com/muellerberndt/mini-agi)]
+* [[LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)]
+* 
+
+## AwesomeAGI Website
 * [[CVPR2020 SR](https://www.cnblogs.com/Kobaayyy/p/13163056.html)]
+* [[通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)]
+
+## AwesomeAGI Tool
+* [[readpaper](https://readpaper.com/search)]
+* [[weeklyreport](https://weeklyreport.avemaria.fun/zh)]
 
 
-
-# How to become a Deep-learner
-https://github.com/ChaofWang/DeepLearning-500-questions
+## AwesomeAGI Interview
+### How to become a Deep-learner
+* [[AIGC_Interview](https://github.com/EmbraceAGI/AIGC_Interview)]
+* [[DeepLearning-500-questions](https://github.com/ChaofWang/DeepLearning-500-questions)]
+* [[DeepLearning](https://github.com/Mikoto10032/DeepLearning)]
 
