@@ -12,8 +12,6 @@
 </p>
 A repository of AGI related websites and code.
 
-# AwesomeAGI
-
 ## AwesomeAGI Paper or Algorithm
 ### AGI
 * [[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)]
@@ -30,7 +28,6 @@ A repository of AGI related websites and code.
 * [[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)]
   - 🍬 Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
 * [[ChatPaper](https://github.com/kaixindelele/ChatPaper)]
-
 ### Image Video Super Resolution
 * [[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)]
 * [[BasicSR](https://github.com/XPixelGroup/BasicSR)]
@@ -60,7 +57,6 @@ A repository of AGI related websites and code.
   - 🍬 一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具
 
 ## AwesomeAGI Interview
-### How to become a Deep-learner
 * [[AIGC_Interview](https://github.com/EmbraceAGI/AIGC_Interview)]
 * [[DeepLearning-500-questions](https://github.com/ChaofWang/DeepLearning-500-questions)]
 * [[DeepLearning](https://github.com/Mikoto10032/DeepLearning)]
