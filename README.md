@@ -14,17 +14,33 @@ A repository of AGI related websites and code.
 
 # AwesomeAGI
 
-## AwesomeAGI Algorithm
-### Repo
+## AwesomeAGI Paper or Algorithm
+### AGI
 * [[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)]
 * [[Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC)]
-* [[ChatPaper](https://github.com/kaixindelele/ChatPaper)]
 * [[awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)]
-* [[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)]
 * [[aigc](https://github.com/phodal/aigc)]
 * [[stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial)]
 * [[understand-prompt](https://github.com/phodal/understand-prompt)]
 * [[ControlNet](https://github.com/lllyasviel/ControlNet)]
+* [[Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D)]
+* [[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)]
+* [[Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image)]
+  - 🍬 GPT开源精选项目的合集
+* [[Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)]
+  - 🍬 Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
+* [[ChatPaper](https://github.com/kaixindelele/ChatPaper)]
+
+### Image Video Super Resolution
+* [[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)]
+* [[BasicSR](https://github.com/XPixelGroup/BasicSR)]
+* [[ESRGAN](https://github.com/xinntao/ESRGAN)]
+* [[Final2x](https://github.com/Tohrusky/Final2x)]
+* [[StableSR](https://github.com/IceClear/StableSR)]
+* [[Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video)]
+* [[ResShift](https://github.com/zsyOAOA/ResShift)]
+* [[CCSR](https://github.com/csslc/CCSR)]
+* [[Diffusion-based-Fluid-Super-resolution](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution)]
 
 ## AwesomeAGI Agent
 * [[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)]
@@ -32,7 +48,6 @@ A repository of AGI related websites and code.
 * [[AGiXT](https://github.com/Josh-XT/AGiXT)]
 * [[mini-agi](https://github.com/muellerberndt/mini-agi)]
 * [[LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)]
-* 
 
 ## AwesomeAGI Website
 * [[CVPR2020 SR](https://www.cnblogs.com/Kobaayyy/p/13163056.html)]
@@ -41,7 +56,8 @@ A repository of AGI related websites and code.
 ## AwesomeAGI Tool
 * [[readpaper](https://readpaper.com/search)]
 * [[weeklyreport](https://weeklyreport.avemaria.fun/zh)]
-
+* [[OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)]
+  - 🍬 一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具
 
 ## AwesomeAGI Interview
 ### How to become a Deep-learner
