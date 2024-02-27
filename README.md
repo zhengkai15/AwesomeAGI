@@ -15,8 +15,11 @@ A repository of AGI related websites and code.
 ## AwesomeAGI Paper or Algorithm
 ### AGI
 * [[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)]
+   - 🍬 Awesome AIGC Tutorials houses a curated collection of tutorials and resources spanning across Large Language Models, AI Painting, and related fields. Discover in-depth insights and knowledge catered for both beginners and advanced AI enthusiasts.
 * [[Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC)]
+  - 🍬 关于ChatGPT和GPT4为代码的文本生成以及Codex的代码生成等博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
 * [[awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)]
+  - 🍬 A collection of resources on text-to-image synthesis/manipulation tasks
 * [[aigc](https://github.com/phodal/aigc)]
 * [[stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial)]
 * [[understand-prompt](https://github.com/phodal/understand-prompt)]
@@ -49,6 +52,7 @@ A repository of AGI related websites and code.
 ## AwesomeAGI Website
 * [[CVPR2020 SR](https://www.cnblogs.com/Kobaayyy/p/13163056.html)]
 * [[通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)]
+* [[Control Net](https://zhuanlan.zhihu.com/p/640637930)]
 
 ## AwesomeAGI Tool
 * [[readpaper](https://readpaper.com/search)]
